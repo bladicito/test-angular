@@ -1,0 +1,1586 @@
+[
+    {
+        "names": {
+            "firstName": "Benjamin",
+            "lastName": "Adler"
+        },
+        "pictureName": "Adler-Benjamin.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Saft",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Philip",
+            "lastName": "Althaus"
+        },
+        "pictureName": "Alhaus-Philip.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Damian",
+            "lastName": "Amherd"
+        },
+        "pictureName": "Amherd-Damian.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Stefan",
+            "lastName": "Andris"
+        },
+        "pictureName": "Andris-Stefan.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Bladimir",
+            "lastName": "Ardiles"
+        },
+        "pictureName": "Ardiles-Bladimir.jpg",
+        "expertise": "Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "schwarz",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Gautham",
+            "lastName": "Arumugam"
+        },
+        "pictureName": "Arumugam-Gautham.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "schwarz",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Rene",
+            "lastName": "Bach"
+        },
+        "pictureName": "Bach-Rene.jpg",
+        "expertise": "Senior Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "undefinierbar",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Selina",
+            "lastName": "Backes"
+        },
+        "pictureName": "Backes-Selina.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Marcel",
+            "lastName": "Bähr"
+        },
+        "pictureName": "Baehr-Marcel.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Christian",
+            "lastName": "Balaguer"
+        },
+        "pictureName": "Balaguer-Jehle-Christian.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Maria",
+            "lastName": "Bassi"
+        },
+        "pictureName": "Bassi-Maria.jpg",
+        "expertise": "Mitarbeiterin Finance",
+        "gender": "weiblich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Christian",
+            "lastName": "Baumgartner"
+        },
+        "pictureName": "Baumgartner-Christian.jpg",
+        "expertise": "Verwaltungsratmitglied",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Stefan",
+            "lastName": "Baur"
+        },
+        "pictureName": "Baur-Stefan.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Susann",
+            "lastName": "Beck"
+        },
+        "pictureName": "Beck-Susann.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Cocktail",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Vanessa",
+            "lastName": "Belstler"
+        },
+        "pictureName": "none",
+        "expertise": "Senior Consultant",
+        "gender": "weiblich",
+        "hairColor": "rot",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Maria",
+            "lastName": "Bernhardt"
+        },
+        "pictureName": "Bernhardt-Maria.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Andrea",
+            "lastName": "Bettich"
+        },
+        "pictureName": "Bettich-Andrea.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Andrea",
+            "lastName": "Bichsel"
+        },
+        "pictureName": "Bichsel-Andrea.jpg",
+        "expertise": "Senior Art Director",
+        "gender": "weiblich",
+        "hairColor": "undefinierbar",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Markus",
+            "lastName": "Bona"
+        },
+        "pictureName": "Bona-Markus.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "undefinierbar",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Yves",
+            "lastName": "Bossard"
+        },
+        "pictureName": "Bossard-Yves.jpg",
+        "expertise": "Praktikant/in",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Christian",
+            "lastName": "Bueschi"
+        },
+        "pictureName": "Bueschi-Chistian.jpg",
+        "expertise": "Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Boris",
+            "lastName": "Burgstaller"
+        },
+        "pictureName": "Burgstaller-Boris.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Hochprozentiges",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Sandra",
+            "lastName": "Burkhalter"
+        },
+        "pictureName": "Burkhalter-Sandra.jpg",
+        "expertise": "Finance Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Mark",
+            "lastName": "Burow"
+        },
+        "pictureName": "Burow-Mark.jpg",
+        "expertise": "Creative Director",
+        "gender": "männlich",
+        "hairColor": "schwarz",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Andreas",
+            "lastName": "Burren"
+        },
+        "pictureName": "Burren-Andy.jpg",
+        "expertise": "Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Dean",
+            "lastName": "Cavelti"
+        },
+        "pictureName": "Cavelti-Dean.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Nadine",
+            "lastName": "Deeg"
+        },
+        "pictureName": "Deeg-Nadine.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Julia",
+            "lastName": "Diebold"
+        },
+        "pictureName": "Diebold-Julia.jpg",
+        "expertise": "Senior Marketing Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Gesine",
+            "lastName": "Dittrich"
+        },
+        "pictureName": "Dittrich-Gesine.jpg",
+        "expertise": "Art Director",
+        "gender": "weiblich",
+        "hairColor": "brünett",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Claudia",
+            "lastName": "Dörr"
+        },
+        "pictureName": "Doerr-Claudia.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Philipp",
+            "lastName": "Ebneter"
+        },
+        "pictureName": "Ebneter-Philipp.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Wolf-Christian",
+            "lastName": "Eickhoff"
+        },
+        "pictureName": "Eickhoff-WolfChristian.jpg",
+        "expertise": "Head of Consulting",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Gregor",
+            "lastName": "Erismann"
+        },
+        "pictureName": "Erismann-Gregor.jpg",
+        "expertise": "Head of Marketing",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Gian-Peder",
+            "lastName": "Fasser"
+        },
+        "pictureName": "Fasser-GianPeder.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Philipp",
+            "lastName": "Flunkert"
+        },
+        "pictureName": "Flunkert-Philipp.jpg",
+        "expertise": "Art Director",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Patrick",
+            "lastName": "Frei"
+        },
+        "pictureName": "Frei-Patrick.jpg",
+        "expertise": "Senior Principal Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Christian",
+            "lastName": "Gächter"
+        },
+        "pictureName": "Gaechter-Christian.jpg",
+        "expertise": "Senior System Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Andreas",
+            "lastName": "Gähwiler"
+        },
+        "pictureName": "Gaehwiler-Andreas.jpg",
+        "expertise": "Head of Sales CH",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Bettina",
+            "lastName": "Gauss"
+        },
+        "pictureName": "Gauss-Bettina.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Celine",
+            "lastName": "Gloor"
+        },
+        "pictureName": "Gloor-Celine.jpg",
+        "expertise": "Mitarbeiterin Finance",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Tee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "René",
+            "lastName": "Hämmerli"
+        },
+        "pictureName": "Haemmerli-Rene.jpg",
+        "expertise": "Software Architect",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Tatiana",
+            "lastName": "Hanz"
+        },
+        "pictureName": "Hanz-Tatiana.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Tee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Simon",
+            "lastName": "Harte"
+        },
+        "pictureName": "Harte-Simon.jpg",
+        "expertise": "Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Tobias",
+            "lastName": "Haussmann"
+        },
+        "pictureName": "Haussmann-Tobias.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Christoph",
+            "lastName": "Hauzenberger"
+        },
+        "pictureName": "Hauzenberger-Christoph.jpg",
+        "expertise": "Solution Architect",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Mathias",
+            "lastName": "Hayoz"
+        },
+        "pictureName": "Hayoz-Mathias.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Hochprozentiges",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Sibel",
+            "lastName": "Hermann"
+        },
+        "pictureName": "none",
+        "expertise": "Senior Accountant",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Anna",
+            "lastName": "Hoeke"
+        },
+        "pictureName": "Hoeke-Anna.jpg",
+        "expertise": "Online-Konzepter/in",
+        "gender": "weiblich",
+        "hairColor": "undefinierbar",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Lars",
+            "lastName": "Holthusen"
+        },
+        "pictureName": "Holhusen-Lars.jpg",
+        "expertise": "Business Unit Manager",
+        "gender": "männlich",
+        "hairColor": "rot",
+        "drink": "Milch",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Benjamin",
+            "lastName": "Hörner"
+        },
+        "pictureName": "Hoerner-Benjamin.jpg",
+        "expertise": "Business Unit Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Gergina",
+            "lastName": "Hristova"
+        },
+        "pictureName": "Hristova-Gergina.jpg",
+        "expertise": "Principal Consultant",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Roland",
+            "lastName": "Hunziker"
+        },
+        "pictureName": "Hunziker-Roland.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Natalie",
+            "lastName": "Huong"
+        },
+        "pictureName": "Huong-Natalie.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Raphael",
+            "lastName": "Husi"
+        },
+        "pictureName": "none",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Katrin",
+            "lastName": "Huth"
+        },
+        "pictureName": "Huth-Katrin.jpg",
+        "expertise": "Senior Konzepter",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Sandro",
+            "lastName": "Jean-Mairet"
+        },
+        "pictureName": "JeanMairet-Sandro.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Raphael",
+            "lastName": "Joss"
+        },
+        "pictureName": "Joss-Raphael.jpg",
+        "expertise": "Senior Project Manager.",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Lars",
+            "lastName": "Kadner"
+        },
+        "pictureName": "Kadner-Lars.jpg",
+        "expertise": "Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Felix",
+            "lastName": "Kaiser"
+        },
+        "pictureName": "Kaiser-Felix.jpg",
+        "expertise": "Senior Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Cocktail",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Michael",
+            "lastName": "Kitanovski"
+        },
+        "pictureName": "Kitanovski-Michael.jpg",
+        "expertise": "Software Architect",
+        "gender": "männlich",
+        "hairColor": "schwarz",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Stefanie",
+            "lastName": "Klekamp"
+        },
+        "pictureName": "Klekamp-Stefanie.jpg",
+        "expertise": "Interaction Designer",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Thomas",
+            "lastName": "König"
+        },
+        "pictureName": "Koenig-Thomas.jpg",
+        "expertise": "Business Unit Manager",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Daniel",
+            "lastName": "Kummer"
+        },
+        "pictureName": "Kummer-Daniel.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Dirk",
+            "lastName": "Kuritz"
+        },
+        "pictureName": "Kuritz-Dirk.jpg",
+        "expertise": "Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Denise",
+            "lastName": "Laeng"
+        },
+        "pictureName": "none",
+        "expertise": "Praktikant/in",
+        "gender": "weiblich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Bernd",
+            "lastName": "Langkau"
+        },
+        "pictureName": "Langkau-Bernd.jpg",
+        "expertise": "Senior Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "keine mehr",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Jonas",
+            "lastName": "Linder"
+        },
+        "pictureName": "Linder-Jonas.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Silvan",
+            "lastName": "Lohri"
+        },
+        "pictureName": "Lohri-Silvan.jpg",
+        "expertise": "Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Dominik",
+            "lastName": "Luechinger"
+        },
+        "pictureName": "Luechinger-Dominik.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Daniela",
+            "lastName": "Marchese"
+        },
+        "pictureName": "Marchese-Daniela.jpg",
+        "expertise": "Partner Manager",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Paolo",
+            "lastName": "Marioni"
+        },
+        "pictureName": "Marioni-Paolo.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Limonade",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Stefan",
+            "lastName": "Maurer"
+        },
+        "pictureName": "Maurer-Stefan.jpg",
+        "expertise": "Principal Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Claus",
+            "lastName": "Medvesek"
+        },
+        "pictureName": "Medvesek-Claus.jpg",
+        "expertise": "Senior Art Director",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Reto",
+            "lastName": "Meier"
+        },
+        "pictureName": "Meier-Reto.jpg",
+        "expertise": "Software Architect",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Dominic",
+            "lastName": "Modalek"
+        },
+        "pictureName": "Modalek-Dominic.jpg",
+        "expertise": "Senior Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Tee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Simon",
+            "lastName": "Mollweide"
+        },
+        "pictureName": "Mollweide-Simon.jpg",
+        "expertise": "Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Giovanni",
+            "lastName": "Morandin"
+        },
+        "pictureName": "none",
+        "expertise": "Sales Consultant",
+        "gender": "männlich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Michèle",
+            "lastName": "Motterle"
+        },
+        "pictureName": "Motterle-Michele.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Dario",
+            "lastName": "Mühle"
+        },
+        "pictureName": "Muehle-Dario.jpg",
+        "expertise": "WerkstudentIn Consulting",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Nando",
+            "lastName": "Mueller"
+        },
+        "pictureName": "Mueller-Nando.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Sabine",
+            "lastName": "Muellers"
+        },
+        "pictureName": "Mueller-Sabine.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Milch",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Benjamin",
+            "lastName": "Müller"
+        },
+        "pictureName": "Mueller-Benjamin.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Samir",
+            "lastName": "Mumic"
+        },
+        "pictureName": "Mumic-Samir.jpg",
+        "expertise": "Lernende/r Informatik",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Limonade",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Michael",
+            "lastName": "Nef"
+        },
+        "pictureName": "Nef-Mike.jpg",
+        "expertise": "Interaction Designer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Michael",
+            "lastName": "Niggeler"
+        },
+        "pictureName": "Niggeler-Michael.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Priscila",
+            "lastName": "Parizze"
+        },
+        "pictureName": "Parizze-Priscila.jpg",
+        "expertise": "Sachbearbeiter Kreditoren",
+        "gender": "weiblich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Romina",
+            "lastName": "Pernhardt"
+        },
+        "pictureName": "Pernhardt-Romina.jpg",
+        "expertise": "Back Office Responsible",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Samuel",
+            "lastName": "Peyer"
+        },
+        "pictureName": "Peyer-Samuel.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Caroline",
+            "lastName": "Pieracci"
+        },
+        "pictureName": "Pieracci-Caroline.jpg",
+        "expertise": "Principal Consultant",
+        "gender": "weiblich",
+        "hairColor": "keine mehr",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Kirsten",
+            "lastName": "Pilih"
+        },
+        "pictureName": "Pilih-Kirsten.jpg",
+        "expertise": "Art Director",
+        "gender": "weiblich",
+        "hairColor": "schwarz",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Julia",
+            "lastName": "Porzio"
+        },
+        "pictureName": "none",
+        "expertise": "Senior Sales Consultant",
+        "gender": "weiblich",
+        "hairColor": "schwarz",
+        "drink": "Kombucha",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Mile",
+            "lastName": "Radunovic"
+        },
+        "pictureName": "none",
+        "expertise": "Junior Consultant",
+        "gender": "männlich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Maya",
+            "lastName": "Reinshagen"
+        },
+        "pictureName": "Reinshagen-Maya.jpg",
+        "expertise": "Principal Consultant",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Juliane",
+            "lastName": "Ronecker"
+        },
+        "pictureName": "Huber-Juliane.jpg",
+        "expertise": "Frontend Engineer",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Michael",
+            "lastName": "Rottmann"
+        },
+        "pictureName": "Rottmann-Michael.jpg",
+        "expertise": "Senior Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Samuel",
+            "lastName": "Schaeublin"
+        },
+        "pictureName": "Schaeublin-Samuel.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Armando",
+            "lastName": "Schär"
+        },
+        "pictureName": "Schaer-Armando.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Anja",
+            "lastName": "Schatz"
+        },
+        "pictureName": "Schatz-Anja.jpg",
+        "expertise": "Art Director",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Regula",
+            "lastName": "Scherrer"
+        },
+        "pictureName": "Scherrer-Regula.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Tee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "André",
+            "lastName": "Schmid"
+        },
+        "pictureName": "Schmid-Andre.jpg",
+        "expertise": "Verwaltungsratsmitglied",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Mike",
+            "lastName": "Schmid"
+        },
+        "pictureName": "Schmid-Mike.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Michael",
+            "lastName": "Schneider"
+        },
+        "pictureName": "none",
+        "expertise": "Senior Controller",
+        "gender": "männlich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Karsten",
+            "lastName": "Schumacher"
+        },
+        "pictureName": "Schumacher-Karsten.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "männlich",
+        "hairColor": "undefinierbar",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Rene",
+            "lastName": "Schwarz"
+        },
+        "pictureName": "Schwarz-Rene.jpg",
+        "expertise": "Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Stefan",
+            "lastName": "Seger"
+        },
+        "pictureName": "Seger-Stefan.jpg",
+        "expertise": "Senior IT Supporter",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Andreas",
+            "lastName": "Soenbuchner"
+        },
+        "pictureName": "Soenbuchner-Andreas.jpg",
+        "expertise": "CFO",
+        "gender": "männlich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Veronika",
+            "lastName": "Sharonova"
+        },
+        "pictureName": "Sharonova-Veronika.jpg",
+        "expertise": "Senior Consultant",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Tee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Pat",
+            "lastName": "Siegenthaler"
+        },
+        "pictureName": "Siegenthaler-Pat.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "schwarz",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Leandra",
+            "lastName": "Simitovic"
+        },
+        "pictureName": "Simitovic-Leandra.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Agnes",
+            "lastName": "Skubisch"
+        },
+        "pictureName": "none",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Klaus",
+            "lastName": "Sperner"
+        },
+        "pictureName": "Sperner-Klaus.jpg",
+        "expertise": "Senior Software Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Markus",
+            "lastName": "Spiekermann"
+        },
+        "pictureName": "Spiekermann-Markus.jpg",
+        "expertise": "Senior Software Architect",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Eva-Maria",
+            "lastName": "Spreitzer"
+        },
+        "pictureName": "Spreitzer-Maria-Eva.jpg",
+        "expertise": "Consultant",
+        "gender": "weiblich",
+        "hairColor": "undefinierbar",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Slobodan",
+            "lastName": "Stojkovic"
+        },
+        "pictureName": "Stojkovic-Slobodan.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Peter",
+            "lastName": "Straub"
+        },
+        "pictureName": "Straub-Peter.jpg",
+        "expertise": "Senior Principal Project Manager",
+        "gender": "männlich",
+        "hairColor": "undefinierbar",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Arlene",
+            "lastName": "Struijk"
+        },
+        "pictureName": "Struijk-Arlene.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Raphael",
+            "lastName": "Stücheli"
+        },
+        "pictureName": "Stücheli-Raphael.jpg",
+        "expertise": "WerkstudentIn Consulting",
+        "gender": "männlich",
+        "hairColor": "",
+        "drink": "",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Lukas",
+            "lastName": "Stuker"
+        },
+        "pictureName": "Stuker-Lukas.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Cola",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Kieu",
+            "lastName": "Tran"
+        },
+        "pictureName": "Tran-Kieu.jpg",
+        "expertise": "Senior Marketing Manager",
+        "gender": "weiblich",
+        "hairColor": "schwarz",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Markus",
+            "lastName": "Tressl"
+        },
+        "pictureName": "Tressl-Markus.jpg",
+        "expertise": "Senior Principal Consultant",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Silvan",
+            "lastName": "Troxler"
+        },
+        "pictureName": "none",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Valentin",
+            "lastName": "Uhrmeister"
+        },
+        "pictureName": "Uhrmeister-Valentin.jpg",
+        "expertise": "Senior Frontend Engineer",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Andrea",
+            "lastName": "VonKaenel"
+        },
+        "pictureName": "VonKaenel-Andrea.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "schwarz",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Pasqual",
+            "lastName": "Vossberg"
+        },
+        "pictureName": "Vossberg-Pasqual.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "männlich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Jasmin",
+            "lastName": "Wegmann"
+        },
+        "pictureName": "Wegmann-Jasmin.jpg",
+        "expertise": "Back Office Responsible",
+        "gender": "weiblich",
+        "hairColor": "brünett",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Nena",
+            "lastName": "Weibel"
+        },
+        "pictureName": "Weibel-Nena.jpg",
+        "expertise": "Consultant/Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Kaffee",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Stephan",
+            "lastName": "Weidele"
+        },
+        "pictureName": "Weidele-Stephan.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Limonade",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Elena",
+            "lastName": "Wessolek"
+        },
+        "pictureName": "Wessolek-Elena.jpg",
+        "expertise": "Frontend Engineer",
+        "gender": "weiblich",
+        "hairColor": "braun",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Sarah",
+            "lastName": "Westermann"
+        },
+        "pictureName": "Westermann-Sarah.jpg",
+        "expertise": "Senior Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Wasser",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Katrin",
+            "lastName": "Wiedmann"
+        },
+        "pictureName": "Wiedmann-Katrin.jpg",
+        "expertise": "Principal Project Manager",
+        "gender": "weiblich",
+        "hairColor": "blond",
+        "drink": "Limonade",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Ralph",
+            "lastName": "Wyss"
+        },
+        "pictureName": "Wyss-Ralph.jpg",
+        "expertise": "Verwaltungsratmitglied",
+        "gender": "männlich",
+        "hairColor": "braun",
+        "drink": "Bier",
+        "standort": "Zuerich"
+    },
+    {
+        "names": {
+            "firstName": "Alain",
+            "lastName": "Zoja"
+        },
+        "pictureName": "Zoja-Alain.jpg",
+        "expertise": "Software Engineer",
+        "gender": "männlich",
+        "hairColor": "schwarz",
+        "drink": "Wein",
+        "standort": "Zuerich"
+    }
+]
