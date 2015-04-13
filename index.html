@@ -12,36 +12,30 @@
 
             <div class="row" ng-controller="MyController">
                 <div class="col-md-12">
-                    <h1>People Directory</h1>
+                    <h1>People Directory</h1> <span> {{amountStaff}}</span>
                     <div class="form-group">
                         <label for="search-query">search</label>
                         <input type="text" class="form-control" id="search-query" placeholder="Search Person" ng-model="query">
                     </div>
                     <div class="row">
-                         <div class="col-md-3" ng-repeat="expertise in expertises" ng-model="test"> 
+                         <div class="col-md-3" ng-repeat="expertise in expertises" ng-model="test">
                             <label class="checkbox-inline">
-                                <input
-                                    type        = "checkbox"
-                                    value       = "{{expertise}}"
-                                    name        = "selectedExpertise[]"
-                                    ng-checked  = "selection.indexOf(expertise) > -1"
-                                    ng-click    = "toggleSelection($event, expertise)"
-                                >
-                                {{expertise}}
+                                <input type="checkbox"  ng-model="selection.ids[expertise.id]" id="{{expertise.id}}" ng-click="updateSelection($event)" data-name="{{expertise.name}}">
+                                {{expertise.name}}
                             </label>
-                            <input type="hidden" value="[]" id="listOfSelectedTitles">
                         </div>
                     </div>
+                    <pre ng-bind="selection.ids | json" style="display: none"></pre>
                 </div>
-                <div class="col-md-3" ng-repeat="person in staff | orderBy:'names.lastName' | filter: query | filter:myFilter">
+                <div class="col-md-3" ng-repeat="person in staff | orderBy:'names.lastName' | filter: query">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h3 class="panel-title" id="panel-title">
                                  {{person.names.firstName}} {{person.names.lastName}}
                             </h3>
                         </div>
-                        <div class="panel-body">
-                            <img ng-src="images/people/{{ person.pictureName === 'none' ? 'none.jpg' : person.pictureName }}" alt="" class="img-circle img-responsive">
+                        <div class="panel-body" style="">
+                            <img ng-src="images/people/{{ person.pictureName === 'none' ? 'none.jpg' : person.pictureName }}" alt="" class="img-circle img-responsive" >
                         </div>
                     <div class="panel-footer">
                          {{person.expertise}}
